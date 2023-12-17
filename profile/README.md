@@ -1,12 +1,16 @@
-## Hi there 👋
+# Silverware
 
-<!--
+## Info
+### Welcome to the developer organization for modding of all games touched by the almighty SilverWare!
+Here is where the modding of many popular games such as Subnautica, Bonelab, Terraria, Minecraft, and many more will have their repositories and releases posted!
 
-**Here are some ideas to get you started:**
+## Members
+### Checkerboard
+Joined the community at the start of the creation of KitchenBoy's first mod, TideFusion!
+Has stuck around even when most people haven't, and is a wonderful asset to the team!
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### Doge
+Tested mods for this organization before he even realized he was a part of it all!
+
+### KitchenBoy
+Owner and Maintainer of the group, with constant bursts of motivation.
