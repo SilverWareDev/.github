@@ -11,6 +11,7 @@ Has stuck around even when most people haven't, and is a wonderful asset to the 
 
 ### Doge
 Tested mods for this organization before he even realized he was a part of it all!
+Here is his ever expanding Mod.Io page: [https://mod.io/g/bonelab/u/doge15567](https://mod.io/g/bonelab/u/doge15567)
 
 ### KitchenBoy
 Owner and Maintainer of the group, with constant bursts of motivation.
